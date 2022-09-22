@@ -12,4 +12,4 @@ function fibo(n) {
     }
     
 }
-fibo(1000)
+fibo(10)
